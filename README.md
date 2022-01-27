@@ -100,7 +100,7 @@ Click WA logo to Join public bot Group👇
 
 ### ❤️ MAALUTTY_V2 💙 website⤵️
 
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
+[![view](https://i.ibb.c/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
 
 
 ### ⚠️ Warning! 
@@ -114,9 +114,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer
   <div align="center">
     
-![nijin-husni](https://github.com/nijin-husni.png?size=100)
+![Jishnu](https://github.com/nijin-husni.png?size=100)
 
- [nijin-husni](https://github.com/nijin-husni)
+ [Jishnu](https://github.com/nijin-husni)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
@@ -126,4 +126,4 @@ Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the regi
